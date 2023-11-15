@@ -1,0 +1,3 @@
+﻿  Tehtävä 4.cpp
+D:\Koulu\C++\Tehtävät 4\Tehtävä 4\Tehtävä 4.cpp(50,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tehtävä 4.vcxproj -> D:\Koulu\C++\Tehtävät 4\x64\Debug\Tehtävä 4.exe
